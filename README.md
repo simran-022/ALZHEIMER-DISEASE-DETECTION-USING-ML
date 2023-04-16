@@ -1,4 +1,4 @@
-# ALZHEIMER-DISEASE-DETECTION-USING-ML
+# ALZHEIMER-DISEASE-DETECTION-USING-AI
 
 Alzheimer's disease is a neurological disorder that causes a decline in cognitive functions, including memory loss, language difficulties, and changes in personality. Early detection of the disease is essential to slow down its progression and improve the quality of life for patients. Artificial intelligence (AI) has the potential to improve early detection of Alzheimer's disease, as it can analyse large amounts of data to identify patterns and make predictions. In this case study, we will discuss an Alzheimer's detection system that uses AI.
 The Alzheimer's detection system uses machine learning algorithms to analyse data from various sources, including brain scans, medical records, and cognitive assessments. The AI system can detect patterns in the data that indicate the presence of Alzheimer's disease. The system is trained using a large dataset of patient data that includes individuals with and without Alzheimer's disease.
